@@ -1,4 +1,4 @@
-package Sample_test;
+package sample_demo;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
