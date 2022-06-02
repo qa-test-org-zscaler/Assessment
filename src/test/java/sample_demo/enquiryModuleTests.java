@@ -152,6 +152,24 @@ public class enquiryModuleTests {
 	    }
 	    
 	    
+	    @Test
+	    public void showEnquiryDetails() throws InterruptedException {
+	    	Login();
+	    	//
+	    	Login();
+	    	driver.findElement(By.linkText("Enquiry")).click();
+	    	Thread.sleep(3000); 
+	    	driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/ul/li[6]/ul/li[1]/a")).click();
+	    	///html/body/div[3]/div/div/div[2]/div/div/div/div[1]/a
+	    	Thread.sleep(3000);
+	    	driver.findElement(By.xpath("/html/body/div[3]/div/div/div[2]/div/div/div/div[1]/a"));
+	    	Thread.sleep(1000);
+	    	
+	    	driver.findElement(By.xpath("/html/body/div[3]/div/div/div[2]/div/div/div/div[2]/div/div[2]/div/table/tbody/tr[1]/td[8]/a")).click();
+	    	Thread.sleep(3000);
+	    	
+	    }
+	    
 	
 	    
 	   
