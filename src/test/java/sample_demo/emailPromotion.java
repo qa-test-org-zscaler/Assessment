@@ -64,7 +64,7 @@ public class componentUtility {
 		driver.findElement(By.id("subject")).sendKeys("This Email Confirms that your testing is successful");
 		driver.findElement(By.id("select_member_type")).click();
 		driver.findElement(By.xpath("//*[@id=\"select_member_type\"]/option[2]")).click();
-		driver.findElement(By.xpath("/html/body/div[3]/div/div/div[2]/div/div/div/div[3]/div/div[3]").click();
+		driver.findElement(By.xpath("/html/body/div[3]/div/div/div[2]/div/div/div/div[3]/div/div[3]")).click();
 		driver.quit();
     }
     
@@ -96,6 +96,7 @@ public class componentUtility {
 		dirver.findElement(By.xpath("//*[@id=\"example_previous\"]")).click();
 		driver.quit();
     }
+}
     
     
     
