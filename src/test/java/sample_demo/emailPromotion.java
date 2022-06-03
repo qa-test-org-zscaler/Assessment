@@ -96,7 +96,7 @@ public class componentUtility {
 		dirver.findElement(By.xpath("//*[@id=\"example_previous\"]")).click();
 		driver.quit();
     }
-}
+
     
     
     
@@ -108,7 +108,7 @@ public class componentUtility {
        driver.get("https://tms.pisystindia.com/admin/dashboard");
     }
     
-    
+}   
     
     
     
