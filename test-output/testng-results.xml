@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-03T08:39:12Z" name="Suite" finished-at="2022-06-03T08:42:53Z" duration-ms="220407">
+    <groups>
+    </groups>
+    <test started-at="2022-06-03T08:39:12Z" name="Test" finished-at="2022-06-03T08:42:53Z" duration-ms="220407">
+      <class name="sample_demo.cpcModuleTest">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:13Z" name="setupClass" finished-at="2022-06-03T08:39:13Z" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:13Z" name="setupTest" finished-at="2022-06-03T08:39:20Z" duration-ms="6952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="loginTest()[pri:-2, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:20Z" name="loginTest" finished-at="2022-06-03T08:39:34Z" duration-ms="13816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:34Z" name="teardown" finished-at="2022-06-03T08:39:35Z" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:35Z" name="setupTest" finished-at="2022-06-03T08:39:40Z" duration-ms="4720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="site_engineering_addcomponent()[pri:-1, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:39:40Z" name="site_engineering_addcomponent" finished-at="2022-06-03T08:40:14Z" duration-ms="34207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- site_engineering_addcomponent -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:40:14Z" name="teardown" finished-at="2022-06-03T08:40:15Z" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:40:15Z" name="setupTest" finished-at="2022-06-03T08:40:20Z" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="Download_jpeg()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:40:20Z" name="Download_jpeg" finished-at="2022-06-03T08:41:02Z" duration-ms="41891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Download_jpeg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:41:02Z" name="teardown" finished-at="2022-06-03T08:41:03Z" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:41:03Z" name="setupTest" finished-at="2022-06-03T08:41:08Z" duration-ms="4486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="cpc_analysis_enquiry()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:41:08Z" name="cpc_analysis_enquiry" finished-at="2022-06-03T08:41:58Z" duration-ms="50703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpc_analysis_enquiry -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:41:58Z" name="teardown" finished-at="2022-06-03T08:41:59Z" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:41:59Z" name="setupTest" finished-at="2022-06-03T08:42:04Z" duration-ms="4560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="cpc_analysis_view_enquiry()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:42:04Z" name="cpc_analysis_view_enquiry" finished-at="2022-06-03T08:42:26Z" duration-ms="22720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpc_analysis_view_enquiry -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:42:26Z" name="teardown" finished-at="2022-06-03T08:42:27Z" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:42:27Z" name="setupTest" finished-at="2022-06-03T08:42:31Z" duration-ms="3978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="site_engineering_excelandpdf()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:42:31Z" name="site_engineering_excelandpdf" finished-at="2022-06-03T08:42:52Z" duration-ms="20803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- site_engineering_excelandpdf -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sample_demo.cpcModuleTest@436c81a3]" started-at="2022-06-03T08:42:52Z" name="teardown" finished-at="2022-06-03T08:42:53Z" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- sample_demo.cpcModuleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
